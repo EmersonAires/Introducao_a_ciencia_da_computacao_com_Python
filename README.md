@@ -1,2 +1,2 @@
 # Introdução a ciência da computação com python
- Curso ministrado pela IME-USP na plataforma do Coursera
+ Exercícios resolvidos do curso ministrado pelo IME-USP na plataforma do Coursera
